@@ -4,3 +4,6 @@ nazal
 ajlan
 messi 
 git
+aman
+fazin
+minhaj
